@@ -1,4 +1,4 @@
-Purpose:
+Purpose:  
 To scan the network and find the information regarding connected devices using ARP, DHCP and UPnP and also sniff DNS and HTTP packets.
 
 Dependencies:  
