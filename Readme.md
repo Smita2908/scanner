@@ -12,7 +12,7 @@ sudo python3 scanner.py dns
 sudo python3 scanner.py upnp  
 sudo python3 scanner.py http  
 sudo python3 dhcp_listener.py  
-sudo pyrhon3 upnp_info.py  
+python3 upnp_info.py  
 
 Attribution:  
 https://jcutrer.com/python/scapy-dhcp-listener  
