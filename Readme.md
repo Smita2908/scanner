@@ -3,7 +3,7 @@ To scan the network and find the information regarding connected devices using A
 
 Dependencies:  
 pip install scapy  
-pip install scapy_http 
+pip install scapy_http  
 pip install requests  
 
 Usage:  
